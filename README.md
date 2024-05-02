@@ -1,10 +1,10 @@
 Olá, sou Samuel Jardim
 
-- 🔭 Hoje Trabalho com Front-End
-- 🌱 Estudando React e TypeScript
+- 🔭 Hoje Trabalho com Desing | Social Media
+- 🌱 Estudando Analise e Desenvolvimento de Sistemas (FADESA)
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: devbatistacontato@gmail.com
-- 😄 Pronouns: ele/dele
+- 📫 contacte-me no email: jardimwise@gmail.com
+- 😄 Hoobe: Cantar
 
 <div align="center">
   <a href="https://github.com/Mateus-Batista12">

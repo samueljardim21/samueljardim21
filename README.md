@@ -1,10 +1,11 @@
 Olá, sou Samuel Jardim
 
-- 🔭 Hoje Trabalho com Desing | Social Media
-- 🌱 Estudando Analise e Desenvolvimento de Sistemas (FADESA)
-- 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: jardimwise@gmail.com
-- 😄 Hoobe: Cantar
+- 🔭 Hoje Trabalho com Desing Gráfico | Social Media
+- 🌱 FADESA - FACULDADE PARA O DESENVOLVIMENTO SUSTENTÁVEL DA AMAZÔNIA <BR> 
+      Cursando: Analise e Desenvolvimento de Sistemas (ADS)
+- 💬 Pergunte-me sobre PHP, HTML, CSS, JavaScript ...
+- 📫 Contacte-me no email: jardimwise@gmail.com
+- 😄 Hoobe: Front-End 
 
 <div align="center">
   <a href="https://github.com/samueljardim21">

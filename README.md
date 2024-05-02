@@ -28,29 +28,40 @@ Olá, sou Samuel Jardim
   <a href = "mailto:jardimwise@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-jardim-029198242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  <!-- MINHAS REDES SOCIAIS -->
-    <footer>
-        <a href="#inicio" class="arriba">
-            <i class="fa-solid fa-angles-up"></i>
-        </a>
-         <!-- Mapa -->
-         <div class="col">
-            <img src="img/ubicacion.png" alt="">
-            <div class="info">
-                <ul>
-                    <li>
-                        <i class=""></i>
-                        COPYRIGHT &copy; SAMUEL JARDIM - TODOS OS DIREITOS RESERVADOS.
-                    </li>  <li>
-                        <i class="fa-solid fa-mobile-screen"></i>
-                        Telefone: (94) 99123-7899 
-                </ul> 
-        <div class="redes">
-            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
-            <a href="#"><i class="fa-brands fa-youtube"></i></a>
-            <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
-            <a href="#"><i class="fa-brands fa-instagram"></i></a>
-        </div>
-    </footer>
+  <div class="fila">
+                <!-- MEUS DADOS PESSOAIS -->
+                <div class="col">
+                    <h3>Dados Pessoais</h3>
+                    <ul>
+                        <li>
+                            <strong>Aniversário</strong>
+                            21/04/1994
+                        </li>
+                        <li>
+                            <strong>Telefone</strong>
+                            (94) 99123-7899
+                        </li>
+                        <li>
+                            <strong>Email</strong>
+                            jardimpbs@gmail.com
+                        </li>
+                        <li>
+                            <strong>Endereço</strong>
+                            Parauapebas - Pará BR
+                        </li>
+                        <li>
+                            <strong>Cargo</strong>
+                            <span>Aux. Administrativo</span>
+                        </li>
+                        <li>
+                            <strong>EMPRESA</strong>
+                            SKY BRASIL
+                        </li>
+                        <li>
+                            <strong>CNH</strong>
+                            CATEGORIA A/B
+                        </li>
+                    </ul>
+                </div>
  
 </div>

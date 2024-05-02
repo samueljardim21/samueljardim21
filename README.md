@@ -28,6 +28,15 @@ Olá, sou Samuel Jardim
   <a href = "mailto:jardimwise@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samuel-jardim-029198242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- 
+ </div>
+            <h1>SAMUELJARDIM</h1>
+            <h2>Analista de Sistemas - FADESA</h2>
+            <div class="redes">
+                <a href="https://www.facebook.com/samueljardimm?mibextid=ZbWKwL"><i class="fa-brands fa-facebook-f"></i></a>
+                <a href="https://www.youtube.com/channel/UCQukc16BVNN9VO1mG38tAgg"><i class="fa-brands fa-youtube"></i></a>
+                <a href="https://www.linkedin.com/in/samuel-jardim-029198242/"><i class="fa-brands fa-linkedin-in"></i></a>
+                <a href="https://instagram.com/samueljardimm?igshid=MzNlNGNkZWQ4Mg=="><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://wa.me/5594991237899?text=Ol%C3%A1%2C+me+chamo+Samuel%2C+posso+ajudar%3F"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
  
 </div>

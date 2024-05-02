@@ -67,5 +67,3 @@ Olá, sou Samuel Jardim
           CATEGORIA A/B
            </li>
      </ul>  
-
-         </div>

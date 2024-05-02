@@ -30,39 +30,41 @@ Olá, sou Samuel Jardim
  
   <div class="fila">
    <!-- MEUS DADOS PESSOAIS -->
-                <div class="col">
-                    <h3>Dados Pessoais</h3>
-                    <ul>
-                        <li>
-                            <strong>Aniversário</strong>
-                            21/04/1994
-                        </li>
-                        <li>
-                            <strong>Telefone</strong>
-                            (94) 99123-7899
-                        </li>
-                        <li>
-                            <strong>Email</strong>
-                            jardimpbs@gmail.com
-                        </li>
-                        <li>
-                            <strong>Endereço</strong>
-                            Parauapebas - Pará BR
-                        </li>
-                        <li>
-                            <strong>Cargo</strong>
-                            <span>Aux. Administrativo</span>
-                        </li>
-                        <li>
-                            <strong>EMPRESA</strong>
-                            SKY BRASIL
-                        </li>
-                        <li>
-                            <strong>CNH</strong>
-                            CATEGORIA A/B
-                        </li>
-                    </ul>
-    </div>
-    
+       <div class="col">
+        <h3>Dados Pessoais</h3>
+         <li>
+        <strong>Nome:</strong>
+        SAMUEL MENDES JARDIM
+        </li>
+        <ul>
+        <li>
+        <strong>Nascimento</strong>
+        21/04/1994
+        </li>
+        <li>
+        <strong>Telefone</strong>
+        (94) 99123-7899
+        </li>
+        <li>
+        <strong>Email</strong>
+        jardimpbs@gmail.com
+        </li>
+        <li>
+        <strong>Endereço</strong>
+        Parauapebas - Pará BR
+        </li>
+        <li>
+        <strong>Função</strong>
+        <span>Gerente Administrativo</span>
+        </li>
+        <li>
+        <strong>EMPRESA</strong>
+         SKY BRASIL
+         </li>
+          <li>
+          <strong>CNH</strong>
+          CATEGORIA A/B
+           </li>
+     </ul>  
 
          </div>
